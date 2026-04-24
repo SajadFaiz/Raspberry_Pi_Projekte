@@ -9,9 +9,9 @@ Diese Projekte beschäftigen sich mit der praktischen Anwendung von Jupyter Note
    Notebooks: [LED_Projekt.ipynb](./LED_Projekt/LED_Projekt.ipynb)  
    Weiteres: Ordner, namens Bilder, mit verlinkten Bilder zu Notebooks
 
-2. **Projekt 2: [Temperatursensor](./Temperatur_Sensor_Projekt/TemperaturSensor_Projekt.ipynb)**  
+2. **Projekt 2: [Temperatursensor](./Temperatur_Sensor/TemperaturSensor_Projekt.ipynb)**  
    Misst die Umgebungstemperatur und stellt die Daten in Echtzeit mit der Matplotlib-Bibliothek als Diagramm dar. Dieses Projekt bietet Einblicke in die Datenerfassung und -visualisierung.  
-   Notebooks: [TemperaturSensor_Projekt.ipynb](./Temperatur_Sensor_Projekt/TemperaturSensor_Projekt.ipynb)  
+   Notebooks: [TemperaturSensor_Projekt.ipynb](./Temperatur_Sensor/TemperaturSensor_Projekt.ipynb)  
    Weiteres: Ordner, namens Bilder, mit verlinkten Bilder zu Notebooks
 
 3. **Projekt 3: [LED Display](./LED_Display/LED_Display.ipynb)**  
@@ -19,9 +19,9 @@ Diese Projekte beschäftigen sich mit der praktischen Anwendung von Jupyter Note
    Notebooks: [LED_Disp.ipynb](./LED_Display/LED_Display.ipynb)  
    Weiteres: Ordner, namens Bilder, mit verlinkten Bilder zu Notebooks
 
-4. **Projekt 4: [Motion Sensor](./BewegungsErkennung_Alram_System/BewegungsErkennungSystem.ipynb)**  
+4. **Projekt 4: [Motion Sensor](./BewegungsErkennung_Alarm_System/BewegungsErkennungSystem.ipynb)**  
    Der HC-SR501-Bewegungssensor erkennt Bewegung und signalisiert dies durch eine blinkende LED. Dieses Projekt verdeutlicht die Grundlagen der Bewegungserkennung.  
-   Notebooks: [MotionSensor.ipynb](./BewegungsErkennung_Alram_System/BewegungsErkennungSystem.ipynb)  
+   Notebooks: [MotionSensor.ipynb](./BewegungsErkennung_Alarm_System/BewegungsErkennungSystem.ipynb)  
    Weiteres: Ordner, namens Bilder, mit verlinkten Bilder zu Notebooks
   
     
